@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Stefano Pedicino</h1>
-<h3 align="center">A passionate Data Scientist from Italy</h3>
+<h3 align="center">A passionate Data Scientist and a Software Developer from Italy</h3>
 
-- 🔭 Always working on **Machine Learning projects**
+- 🔭 Always looking to involve my skills on **new projects**
 
-- 🌱 I’m currently improving my skills in **Python**
+- 🌱 Growing day by day, currently i code in: **Python, PHP, Java, SQL, TypeScript, JavaScript, HTML, CSS, BASH, BATCH Script**
 
-- 👨‍💻 I'm volunteering to help new data scientists to start their journey **with Practicum by Yandex**
+- 👨‍💻 I'm volunteering to help new data scientists to start their journey **with Practicum by Yandex** where i graduated years ago.
 
-- 🤝 I’m looking for help finding new job opportunities and get in the tech field. **Want to land an IT job!**
+- 🤝 I’m looking to expand my social network **in IT field!** and meet new developers!
 
 - 💬 Contact me and feel free to share **opinions on my projects**
 
