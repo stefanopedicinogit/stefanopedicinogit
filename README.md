@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stefano Pedicino</h1>
-<h3 align="center">A passionate Data Scientist and a Software Developer from Italy</h3>
+<h3 align="center">A Fullstack Developer and passionate Data Scientist from Italy</h3>
 
 - 🔭 Always looking to involve my skills on **new projects**
 
-- 🌱 Growing day by day, currently i code in: **Python, PHP, Java, SQL, TypeScript, JavaScript, HTML, CSS, BASH, BATCH Script**
+- 🌱 Growing day by day, currently i code in: **Python, PHP, Java, SQL, TypeScript, JavaScript, HTML, CSS, BASH, BATCH**
 
 - 👨‍💻 I'm volunteering to help new data scientists to start their journey **with Practicum by Yandex** where i graduated years ago.
 
